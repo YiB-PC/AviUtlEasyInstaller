@@ -1,0 +1,2 @@
+# AviUtlEasyInstaller
+ AviUtlをかんたんにインストールすることができるソフト
